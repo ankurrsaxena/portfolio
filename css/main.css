@@ -1,0 +1,35 @@
+.site-header{
+
+    background-color: lightslategrey;
+    color: white;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.site-heade-content{
+    margin: 10px;
+}
+.profile-pic{
+border-radius: 50%;
+height: 200px;
+width: 200px;
+box-shadow: #55534e87 2px 2px 5px;
+}
+.social-media{
+   padding: 20px;
+}
+.social-content{
+    border-radius: 25%;
+    height: 50px;
+    width: 50px;
+    box-shadow: #55534e87 -1px 1px 1px;
+
+}
+   
+body{
+    margin: 0;
+    background-color: dimgray;
+}
